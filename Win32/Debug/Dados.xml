@@ -1,0 +1,44 @@
+<Dados>
+	<Tabela=Empresa>
+		<Registro>
+			<NomeEmpresa></NomeEmpresa>
+			<RazSocial></RazSocial>
+			<InscEstadual>   .  .  - </InscEstadual>
+			<CNPJ>  .   .   /    -  </CNPJ>
+			<TelEmpresa>(  )     -    </TelEmpresa>
+			<Email></Email>
+			<Cidade></Cidade>
+			<Bairro></Bairro>
+			<Lagradouro></Lagradouro>
+			<Num></Num>
+			<NomeGerente></NomeGerente>
+			<TelGerente>(  )     -    </TelGerente>
+			<Senha></Senha>
+		</Registro>
+	</Tabela=Empresa>
+	<Tabela=Clientes>
+	</Tabela=Clientes>
+	<Tabela=Funcionarios>
+	</Tabela=Funcionarios>
+	<Tabela=Categorias>
+	</Tabela=Categorias>
+	<Tabela=Fornecedores>
+	</Tabela=Fornecedores>
+	<Tabela=Filmes>
+	</Tabela=Filmes>
+	<Tabela=NotaEntrada>
+	</Tabela=NotaEntrada>
+	<Tabela=NotaPagar>
+	</Tabela=NotaPagar>
+	<Tabela=Locacao>
+	</Tabela=Locacao>
+	<Tabela=NotaReceber>
+	</Tabela=NotaReceber>
+	<Tabela=MovimentacaoCaixa>
+	</Tabela=MovimentacaoCaixa>
+	<Tabela=Caixa>
+		<Registro>
+			<Caixa>0,00</Caixa>
+		</Registro>
+	</Tabela=Caixa>
+</Dados>
