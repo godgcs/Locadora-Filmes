@@ -1,0 +1,8 @@
+Instalação
+	Primeiramente abra o Delphi em que deseja instalar o Componente, logo que ele abrir já pode fechar, existe um bug que se não abrir antes da instalação o instalador não irá reconhecer o Delphi na máquina e em um dos passos da instalação não poderá continuar.
+ 	Vai no link http://jvcl.delphi-jedi.org/ e baixe a Versão compatível com o seu Delphi.
+	Ao baixar extraia os arquivos em “C:\”, lá serão extraídas duas pastas (OBS. As duas pastas devem ficar exatamente em “C:\” ou a instalação não irá funcionar).
+		jcl
+		jvcl
+	Em seguida abra a pasta “jcl” e procure pelo arquivo “Install.bat” (na versão 3.47 ele se encontra dentro de outra pasta também chamada “jcl”, já na versão 3.45 já está na raiz da pasta). Abra o Aquivo. Então ao abrir na segunda aba selecione que concorda com os termos e instale.
+	Depois vá para a pasta “jvcl” e procure pelo arquivo “Install.bat”. Abra o Arquivo. Basta Clicar em Next e Instalar.
